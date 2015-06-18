@@ -40,9 +40,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="542.42474"
-     inkscape:cy="3146.7053"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="889.6409"
+     inkscape:cy="2913.671"
      inkscape:document-units="px"
      inkscape:current-layer="layer7"
      showgrid="true"
@@ -69,7 +69,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -91,6 +91,11 @@
      inkscape:label="main"
      style="display:inline;filter:url(#filter3921)"
      transform="translate(0,-540)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="background"
+     style="display:inline" />
   <g
      inkscape:groupmode="layer"
      id="layer3"
@@ -122,12 +127,163 @@
      inkscape:label="footer"
      transform="translate(0,-540)">
     <g
-       id="g8116"
-       transform="translate(0,541.49995)">
+       id="g3958">
+      <image
+         sodipodi:absref="/github/elenapogoda/design-6-indigotranslation/./background_img.jpg"
+         xlink:href="./background_img.jpg"
+         style="filter:url(#filter3921)"
+         y="739.49994"
+         x="0"
+         id="image3914"
+         height="710"
+         width="1366" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3828"
+         y="679.49994"
+         x="532"
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:-0.01px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter3921);font-family:Play;-inkscape-font-specification:Play"
+         xml:space="preserve"><tspan
+           y="679.49994"
+           x="532"
+           id="tspan3830"
+           sodipodi:role="line" /></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3925"
+         y="857.49994"
+         x="164"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:-0.01px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter3921);font-family:Raleway;-inkscape-font-specification:Raleway Bold"
+         xml:space="preserve"><tspan
+           y="857.49994"
+           x="164"
+           id="tspan3927"
+           sodipodi:role="line">QUALITY MEDICAL, LEGAL AND</tspan><tspan
+           id="tspan3929"
+           y="917.49994"
+           x="164"
+           sodipodi:role="line">FINANCE TRANSLATION</tspan></text>
+      <g
+         transform="translate(0,541.49995)"
+         id="g3935"
+         style="filter:url(#filter3921)">
+        <rect
+           style="fill:#7f8586;fill-opacity:1;stroke:none"
+           id="rect3931"
+           width="60"
+           height="60"
+           x="0"
+           y="372" />
+        <path
+           style="fill:none;stroke:#dddddd;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 40,382 -20,20 20,20"
+           id="path3933"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccc" />
+      </g>
+      <g
+         style="opacity:0.76666667;filter:url(#filter3921)"
+         transform="matrix(-1,0,0,1,1366,541.49995)"
+         id="g3939">
+        <rect
+           y="372"
+           x="0"
+           height="60"
+           width="60"
+           id="rect3941"
+           style="fill:#7f8586;fill-opacity:1;stroke:none" />
+        <path
+           sodipodi:nodetypes="ccc"
+           inkscape:connector-curvature="0"
+           id="path3943"
+           d="m 40,382 -20,20 20,20"
+           style="fill:none;stroke:#dddddd;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+      <g
+         transform="translate(0,541.49995)"
+         id="g3945"
+         style="filter:url(#filter3921)">
+        <rect
+           style="fill:#e96524;fill-opacity:1;stroke:none"
+           id="rect3832"
+           width="110"
+           height="40"
+           x="1122"
+           y="112"
+           ry="20"
+           rx="20" />
+        <text
+           xml:space="preserve"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:-0.01px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Raleway;-inkscape-font-specification:Raleway Bold"
+           x="484"
+           y="137"
+           id="text3822"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3824"
+             x="484"
+             y="137"><tspan
+   style="fill:#e96524;fill-opacity:1"
+   id="tspan3826">HOME </tspan>                      ABOUT US                      SERVICES                    INDUSTRY EXPERTISE                      SOFTWARE                      <tspan
+   style="fill:#ffffff"
+   id="tspan3834">CONTACT US</tspan></tspan></text>
+      </g>
+      <g
+         transform="translate(0,541.49995)"
+         id="g4007"
+         style="filter:url(#filter3921)">
+        <rect
+           rx="34.439026"
+           style="fill:#e96524;fill-opacity:1;stroke:#e96524;stroke-width:1.36378598;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect3777-4"
+           width="158.63622"
+           height="58.636215"
+           x="165.80281"
+           y="431.69235"
+           ry="28.307648" />
+        <text
+           xml:space="preserve"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Raleway;-inkscape-font-specification:Raleway Bold"
+           x="204.67975"
+           y="465.62546"
+           id="text3779-0"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3781-4"
+             x="204.67975"
+             y="465.62546"
+             style="font-size:13px">ORDER NOW</tspan></text>
+      </g>
+      <g
+         transform="translate(0,541.49995)"
+         id="g4023"
+         style="filter:url(#filter3921)">
+        <rect
+           ry="28.307648"
+           y="431.77216"
+           x="339.8826"
+           height="58.476624"
+           width="198.47662"
+           id="rect4014"
+           style="fill:none;stroke:#eeeeee;stroke-width:1.52337885;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           rx="34.439026" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text4016"
+           y="465.62546"
+           x="380.71375"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Raleway;-inkscape-font-specification:Raleway Bold"
+           xml:space="preserve"><tspan
+             style="font-size:13px"
+             y="465.62546"
+             x="380.71375"
+             id="tspan4018"
+             sodipodi:role="line">GET A FREE QUATE</tspan></text>
+      </g>
       <g
          id="g7250"
          style="display:inline"
-         transform="translate(0,2947.6378)">
+         transform="translate(0,3489.1377)">
         <g
            id="g5340">
           <g
@@ -294,7 +450,7 @@
         </g>
       </g>
       <g
-         transform="translate(68,-30)"
+         transform="translate(68,511.49995)"
          id="g3812"
          style="display:inline">
         <text
@@ -339,155 +495,7 @@
              style="font-size:22px;letter-spacing:-0.70000005px">TRANSLATION</tspan></text>
       </g>
       <g
-         id="g7282"
-         style="display:inline;filter:url(#filter3921)">
-        <g
-           id="g5312">
-          <image
-             width="1366"
-             height="710"
-             xlink:href="./background_img.jpg"
-             id="image3914"
-             x="0"
-             y="198" />
-          <text
-             sodipodi:linespacing="125%"
-             id="text3828"
-             y="138"
-             x="532"
-             style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:-0.01px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
-             xml:space="preserve"><tspan
-               y="138"
-               x="532"
-               id="tspan3830"
-               sodipodi:role="line" /></text>
-          <text
-             sodipodi:linespacing="125%"
-             id="text3925"
-             y="316"
-             x="164"
-             style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:-0.01px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Raleway;-inkscape-font-specification:Raleway Bold"
-             xml:space="preserve"><tspan
-               y="316"
-               x="164"
-               id="tspan3927"
-               sodipodi:role="line">QUALITY MEDICAL, LEGAL AND</tspan><tspan
-               id="tspan3929"
-               y="376"
-               x="164"
-               sodipodi:role="line">FINANCE TRANSLATION</tspan></text>
-          <g
-             id="g3935">
-            <rect
-               style="fill:#7f8586;fill-opacity:1;stroke:none"
-               id="rect3931"
-               width="60"
-               height="60"
-               x="0"
-               y="372" />
-            <path
-               style="fill:none;stroke:#dddddd;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-               d="m 40,382 -20,20 20,20"
-               id="path3933"
-               inkscape:connector-curvature="0"
-               sodipodi:nodetypes="ccc" />
-          </g>
-          <g
-             style="opacity:0.76666667"
-             transform="matrix(-1,0,0,1,1370,0)"
-             id="g3939">
-            <rect
-               y="372"
-               x="0"
-               height="60"
-               width="60"
-               id="rect3941"
-               style="fill:#7f8586;fill-opacity:1;stroke:none" />
-            <path
-               sodipodi:nodetypes="ccc"
-               inkscape:connector-curvature="0"
-               id="path3943"
-               d="m 40,382 -20,20 20,20"
-               style="fill:none;stroke:#dddddd;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-          </g>
-          <g
-             id="g3945">
-            <rect
-               style="fill:#e96524;fill-opacity:1;stroke:none"
-               id="rect3832"
-               width="110"
-               height="40"
-               x="1122"
-               y="112"
-               ry="20"
-               rx="20" />
-            <text
-               xml:space="preserve"
-               style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:-0.01px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Raleway;-inkscape-font-specification:Raleway Bold"
-               x="484"
-               y="137"
-               id="text3822"
-               sodipodi:linespacing="125%"><tspan
-                 sodipodi:role="line"
-                 id="tspan3824"
-                 x="484"
-                 y="137"><tspan
-   style="fill:#e96524;fill-opacity:1"
-   id="tspan3826">HOME </tspan>                      ABOUT US                      SERVICES                    INDUSTRY EXPERTISE                      SOFTWARE                      <tspan
-   style="fill:#ffffff"
-   id="tspan3834">CONTACT US</tspan></tspan></text>
-          </g>
-          <g
-             id="g4007">
-            <rect
-               rx="34.439026"
-               style="fill:#e96524;fill-opacity:1;stroke:#e96524;stroke-width:1.36378598;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-               id="rect3777-4"
-               width="158.63622"
-               height="58.636215"
-               x="165.80281"
-               y="431.69235"
-               ry="28.307648" />
-            <text
-               xml:space="preserve"
-               style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Raleway;-inkscape-font-specification:Raleway Bold"
-               x="204.67975"
-               y="465.62546"
-               id="text3779-0"
-               sodipodi:linespacing="125%"><tspan
-                 sodipodi:role="line"
-                 id="tspan3781-4"
-                 x="204.67975"
-                 y="465.62546"
-                 style="font-size:13px">ORDER NOW</tspan></text>
-          </g>
-          <g
-             id="g4023">
-            <rect
-               ry="28.307648"
-               y="431.77216"
-               x="339.8826"
-               height="58.476624"
-               width="198.47662"
-               id="rect4014"
-               style="fill:none;stroke:#eeeeee;stroke-width:1.52337885;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-               rx="34.439026" />
-            <text
-               sodipodi:linespacing="125%"
-               id="text4016"
-               y="465.62546"
-               x="380.71375"
-               style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Raleway;-inkscape-font-specification:Raleway Bold"
-               xml:space="preserve"><tspan
-                 style="font-size:13px"
-                 y="465.62546"
-                 x="380.71375"
-                 id="tspan4018"
-                 sodipodi:role="line">GET A FREE QUATE</tspan></text>
-          </g>
-        </g>
-      </g>
-      <g
+         transform="translate(0,541.49995)"
          id="g7311">
         <g
            id="g5285">
@@ -620,6 +628,7 @@
                id="flowPara4108">some specific areas, while the use of CATtolls and well-organized QA system grantees that our clients get high-quality translations in due time.</flowPara></flowRoot>        </g>
       </g>
       <g
+         transform="translate(0,541.49995)"
          id="g7339">
         <g
            id="g5069">
@@ -1526,9 +1535,17 @@
         </g>
       </g>
       <g
-         id="g7556">
+         id="g3946">
+        <rect
+           style="enable-background:new;fill:#ffffff;fill-opacity:1;stroke:none"
+           id="rect3934"
+           width="1366"
+           height="114"
+           x="0"
+           y="2559" />
         <g
-           id="g5059">
+           id="g5059"
+           transform="translate(0,541.49995)">
           <rect
              y="2019.0488"
              x="1.0487671"
@@ -1577,6 +1594,7 @@
         </g>
       </g>
       <g
+         transform="translate(0,541.49995)"
          id="g7567">
         <g
            id="g7105">
@@ -1675,6 +1693,7 @@
         </g>
       </g>
       <g
+         transform="translate(0,541.49995)"
          id="g7587">
         <g
            id="g4929">
@@ -2143,6 +2162,7 @@
         </g>
       </g>
       <g
+         transform="translate(0,541.49995)"
          id="g7674">
         <g
            id="g5043">
